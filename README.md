@@ -1,0 +1,1 @@
+Dieses Programm handelt sich um ein Spiel, in dem du als Bauer den Wolf, die Ziege, und einen Kolhkopf über  den Fluss durchqueren muss, ohne die Ziege von dem Wolf gefrißt zu lassen, oder den Kohlkopf von der Ziege. Die Eingabe 'B' steht für Bauer, 'W' als Wolf, 'Z' als Ziege, 'K' als Kohlkopf, die du nur ein Subjekt jede Fahrt mitbringen kannst. 
